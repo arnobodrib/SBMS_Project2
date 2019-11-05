@@ -1,0 +1,10 @@
+F:\Day23\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.dll
+F:\Day23\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.pdb
+F:\Day23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.csprojAssemblyReference.cache
+F:\Day23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.csproj.CoreCompileInputs.cache
+F:\Day23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.dll
+F:\Day23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.pdb

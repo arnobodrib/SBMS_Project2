@@ -1,0 +1,47 @@
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.BLL.dll
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.BLL.pdb
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Model.dll
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.dll
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.dll
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\EntityFramework.dll
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Model.pdb
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.pdb
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.dll.config
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.pdb
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.dll.config
+F:\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\EntityFramework.xml
+F:\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.csprojAssemblyReference.cache
+F:\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.csproj.CoreCompileInputs.cache
+F:\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.csproj.CopyComplete
+F:\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.dll
+F:\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.pdb
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.BLL.dll
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.BLL.pdb
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Model.dll
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.dll
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.dll
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\EntityFramework.dll
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Model.pdb
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.pdb
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.dll.config
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.pdb
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.dll.config
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\EntityFramework.xml
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.csprojResolveAssemblyReference.cache
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.dll
+F:\BITM\Class 23\Day23_ananna\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.BLL.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.BLL.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Model.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\EntityFramework.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Model.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.Repository.dll.config
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.pdb
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\WebApp.DatabaseContext.dll.config
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\bin\Debug\EntityFramework.xml
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.csprojResolveAssemblyReference.cache
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.dll
+F:\BITM\Class 23\Day23_ananna - Copy\Day23\WebApp\WebApp\WebApp.BLL\obj\Debug\WebApp.BLL.pdb
